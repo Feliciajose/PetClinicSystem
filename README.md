@@ -166,7 +166,7 @@ npm start
 
 🖼️ Pet photo uploads
 ---
-##🧑‍💻 Developer
+🧑‍💻 Developer
 
 👩‍💻 Developed by: Felicia Jose
 🌐 GitHub: @Feliciajose
@@ -183,4 +183,3 @@ MIT © 2025 Pet Clinic System
 
 “Because every paw deserves care and every vet deserves ease.” 🐾
 
-### 📦 Backend
