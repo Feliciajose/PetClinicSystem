@@ -55,7 +55,7 @@ It features a modern **React + Material UI** frontend and a **Spring Boot + MySQ
 
 > A clean and responsive veterinary dashboard built for comfort and clarity.
 
-![Pet Clinic Dashboard](./src/assets/dashboard-preview.jpg)
+![Pet Clinic Dashboard](./petclinicfrontend/src/assets/dashboard-preview.jpg)
 
 📊 **Key Highlights:**
 - Pet Distribution (Pie Chart)  
